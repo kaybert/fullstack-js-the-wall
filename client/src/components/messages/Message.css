@@ -1,0 +1,24 @@
+.messagebox {
+    border: 1px solid lightgray;
+    margin: 5px 0;
+    padding: 7px;
+    border-radius: 5px;
+}
+.messages {
+	margin-top: 20px;
+}
+.message {
+    font-size: 1.3em;
+    display: block;
+	width: 100%;
+	max-width: 45em;
+    padding: 10px 5px;
+}
+.username, .datetime {
+    color: gray;
+    font-style: italic;
+}
+
+.datetime {
+    float: right;
+}

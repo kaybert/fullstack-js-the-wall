@@ -1,0 +1,13 @@
+.the-wall-wrapper {
+	max-width: 45em;
+	position: relative;
+	margin: 40px auto 0 auto;
+}
+textarea.post {
+	font-size: 1.3em;
+	font-family: inherit;
+	width: 100%;
+	min-width: 100%;
+	max-width: 45em;
+	height: 5em;
+}
